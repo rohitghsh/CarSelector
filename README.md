@@ -1,5 +1,5 @@
 # CarSelector
-I built a solution to choosing a car to buy based on the 20/10/4 rule. This is a method to buy a vehile which doesn't break your bank
+I built a solution to choosing a car to buy based on the 20/10/4 rule. This is a method to buy a vehicle which doesn't break your bank
 and makes you go broke.
 
 ## What does 20/10/4 rule suggests?
